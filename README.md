@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sane Aalam</h1>
+<h1 align="center">Hi 👋, I am Sane Aalam, currently pursuing my bachelors from Dr. A.P.J. Abdul Kalam Technical University in Computer Science & Engineering
+</h1>
 <h3 align="center"> 👀 I’m interested in Software Development Engineering opportunities (SDE).</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms skills, Node js, Express.js, React.js & MongoDB.**
