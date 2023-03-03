@@ -9,6 +9,7 @@
 - 📬 Consistency is harder when no one is clapping for you.You must clap for yourself.
 - ➕ Following me here! 
 - 📫 How to reach me **https://in.linkedin.com/in/sane-aalam**
+- GFG - https://auth.geeksforgeeks.org/user/saneaalam78692/practice
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
